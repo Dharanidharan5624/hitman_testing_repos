@@ -1,0 +1,25 @@
+{
+  "runtimeTarget": {
+    "name": "net8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    "net8.0": {
+      "Appeon.DB.Proxy/1.0.0": {
+        "dependencies": {
+        },
+        "runtime": {
+          "Appeon.DB.Proxy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Appeon.DB.Proxy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

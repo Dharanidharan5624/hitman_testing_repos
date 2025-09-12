@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": "net8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    "net8.0": {
+      "PBDWExcel12Interop/1.0.0": {
+        "runtime": {
+          "PBDWExcel12Interop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PBDWExcel12Interop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

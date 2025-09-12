@@ -1,0 +1,2067 @@
+{
+	"modules": [
+		{
+			"name": "coreruntimefiles",
+			"option": 0,
+			"description": "",
+			"groupid": 1,
+			"clienttype": 3,
+			"files": [
+				{
+					"name": "coreruntimefiles.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbdpl.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "pbdwe.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "pbresource.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "pbrth.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "pbshr.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "pbsysfunc.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "pbtheme.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "pbtra.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "pbtrs.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "pbUIS.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "pbvm.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "pdflib.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "NotoSans-Bold.ttf",
+					"size": 0,
+					"path": "font",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "NotoSans-Regular.ttf",
+					"size": 0,
+					"path": "font",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "libcurl.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "APACHE_LICENSE.TXT",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "pbjson.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "pbXerces.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "xerces-c.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "msvcp140.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "vcruntime140.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "vcruntime140_1.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "libcfgmgr64.dll",
+					"size": 0,
+					"path": "InstallableCloudApp",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "pbcrypt.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "AtlAuxiliary.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "pbcompression.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "pboauth.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "pbrtc.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "pbhttpclient.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "Ijwhost.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "PBNewSolution.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				},
+				{
+					"name": "PBFileService.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "coreruntimefiles.zip"
+				}
+			]
+		},
+		{
+			"name": "adonet4sqlserver",
+			"option": 1,
+			"description": "",
+			"groupid": 0,
+			"clienttype": 1,
+			"files": [
+				{
+					"name": "adonet4sqlserver.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbDBDriver.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Appeon.DB.Proxy.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Appeon.DB.Proxy.runtimeconfig.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Appeon.DB.Proxy.deps.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Appeon.DB.Base.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Appeon.DB.Base.deps.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Appeon.DB.Sharing.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Appeon.DB.Sharing.deps.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Appeon.DB.SQLServer.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Appeon.DB.SQLServer.deps.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Microsoft.Data.SqlClient.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Microsoft.Data.SqlClient.SNI.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Microsoft.Identity.Client.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Microsoft.SqlServer.Server.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "System.Configuration.ConfigurationManager.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "System.Security.Permissions.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Azure.Core.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Azure.Identity.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Microsoft.Bcl.AsyncInterfaces.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Microsoft.Identity.Client.Extensions.Msal.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Microsoft.IdentityModel.Abstractions.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Microsoft.IdentityModel.JsonWebTokens.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Microsoft.IdentityModel.Logging.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Microsoft.IdentityModel.Protocols.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Microsoft.IdentityModel.Tokens.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "Microsoft.Win32.SystemEvents.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "System.Drawing.Common.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "System.IdentityModel.Tokens.Jwt.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "System.Memory.Data.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "System.Runtime.Caching.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "System.Security.Cryptography.ProtectedData.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				},
+				{
+					"name": "System.Windows.Extensions.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4sqlserver.zip"
+				}
+			]
+		},
+		{
+			"name": "adonet4odbc",
+			"option": 1,
+			"description": "",
+			"groupid": 0,
+			"clienttype": 1,
+			"files": [
+				{
+					"name": "adonet4odbc.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbDBDriver.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4odbc.zip"
+				},
+				{
+					"name": "Appeon.DB.Proxy.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4odbc.zip"
+				},
+				{
+					"name": "Appeon.DB.Proxy.runtimeconfig.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4odbc.zip"
+				},
+				{
+					"name": "Appeon.DB.Proxy.deps.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4odbc.zip"
+				},
+				{
+					"name": "Appeon.DB.Base.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4odbc.zip"
+				},
+				{
+					"name": "Appeon.DB.Base.deps.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4odbc.zip"
+				},
+				{
+					"name": "Appeon.DB.Sharing.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4odbc.zip"
+				},
+				{
+					"name": "Appeon.DB.Sharing.deps.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4odbc.zip"
+				},
+				{
+					"name": "Appeon.DB.Odbc.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4odbc.zip"
+				},
+				{
+					"name": "Appeon.DB.Odbc.deps.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4odbc.zip"
+				},
+				{
+					"name": "System.Data.Odbc.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4odbc.zip"
+				}
+			]
+		},
+		{
+			"name": "adonet4oracle",
+			"option": 1,
+			"description": "",
+			"groupid": 0,
+			"clienttype": 1,
+			"files": [
+				{
+					"name": "adonet4oracle.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbDBDriver.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4oracle.zip"
+				},
+				{
+					"name": "Appeon.DB.Proxy.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4oracle.zip"
+				},
+				{
+					"name": "Appeon.DB.Proxy.runtimeconfig.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4oracle.zip"
+				},
+				{
+					"name": "Appeon.DB.Proxy.deps.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4oracle.zip"
+				},
+				{
+					"name": "Appeon.DB.Base.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4oracle.zip"
+				},
+				{
+					"name": "Appeon.DB.Base.deps.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4oracle.zip"
+				},
+				{
+					"name": "Appeon.DB.Sharing.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4oracle.zip"
+				},
+				{
+					"name": "Appeon.DB.Sharing.deps.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4oracle.zip"
+				},
+				{
+					"name": "Appeon.DB.Oracle.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4oracle.zip"
+				},
+				{
+					"name": "Appeon.DB.Oracle.deps.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4oracle.zip"
+				},
+				{
+					"name": "System.Diagnostics.PerformanceCounter.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4oracle.zip"
+				},
+				{
+					"name": "System.DirectoryServices.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4oracle.zip"
+				},
+				{
+					"name": "System.DirectoryServices.Protocols.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4oracle.zip"
+				},
+				{
+					"name": "Oracle.ManagedDataAccess.dll",
+					"size": 0,
+					"path": "%USERPROFILE%\\.netdbdrives\\oracle\\23.6.1",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4oracle.zip"
+				},
+				{
+					"name": "Microsoft.Win32.SystemEvents.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4oracle.zip"
+				},
+				{
+					"name": "System.Configuration.ConfigurationManager.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4oracle.zip"
+				},
+				{
+					"name": "System.Drawing.Common.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4oracle.zip"
+				},
+				{
+					"name": "System.Security.Cryptography.ProtectedData.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4oracle.zip"
+				},
+				{
+					"name": "System.Security.Permissions.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4oracle.zip"
+				},
+				{
+					"name": "System.Windows.Extensions.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4oracle.zip"
+				}
+			]
+		},
+		{
+			"name": "adonet4postgresql",
+			"option": 1,
+			"description": "",
+			"groupid": 0,
+			"clienttype": 1,
+			"files": [
+				{
+					"name": "adonet4postgresql.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbDBDriver.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4postgresql.zip"
+				},
+				{
+					"name": "Appeon.DB.Proxy.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4postgresql.zip"
+				},
+				{
+					"name": "Appeon.DB.Proxy.runtimeconfig.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4postgresql.zip"
+				},
+				{
+					"name": "Appeon.DB.Proxy.deps.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4postgresql.zip"
+				},
+				{
+					"name": "Appeon.DB.Base.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4postgresql.zip"
+				},
+				{
+					"name": "Appeon.DB.Base.deps.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4postgresql.zip"
+				},
+				{
+					"name": "Appeon.DB.Sharing.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4postgresql.zip"
+				},
+				{
+					"name": "Appeon.DB.Sharing.deps.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4postgresql.zip"
+				},
+				{
+					"name": "Appeon.DB.PostgreSql.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4postgresql.zip"
+				},
+				{
+					"name": "Microsoft.Extensions.Logging.Abstractions.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4postgresql.zip"
+				},
+				{
+					"name": "Npgsql.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4postgresql.zip"
+				}
+			]
+		},
+		{
+			"name": "adonet4customdriver",
+			"option": 1,
+			"description": "",
+			"groupid": 0,
+			"clienttype": 1,
+			"files": [
+				{
+					"name": "adonet4customdriver.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbDBDriver.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4customdriver.zip"
+				},
+				{
+					"name": "Appeon.DB.Proxy.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4customdriver.zip"
+				},
+				{
+					"name": "Appeon.DB.Proxy.runtimeconfig.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4customdriver.zip"
+				},
+				{
+					"name": "Appeon.DB.Proxy.deps.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4customdriver.zip"
+				},
+				{
+					"name": "Appeon.DB.Base.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4customdriver.zip"
+				},
+				{
+					"name": "Appeon.DB.Base.deps.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4customdriver.zip"
+				},
+				{
+					"name": "Appeon.DB.Sharing.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4customdriver.zip"
+				},
+				{
+					"name": "Appeon.DB.Sharing.deps.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4customdriver.zip"
+				},
+				{
+					"name": "Appeon.DB.Custom.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4customdriver.zip"
+				},
+				{
+					"name": "Appeon.DB.Custom.deps.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "adonet4customdriver.zip"
+				}
+			]
+		},
+		{
+			"name": "informixi10",
+			"option": 1,
+			"description": "",
+			"groupid": 0,
+			"clienttype": 1,
+			"files": [
+				{
+					"name": "informixi10.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbi10.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "informixi10.zip"
+				}
+			]
+		},
+		{
+			"name": "informixin9",
+			"option": 1,
+			"description": "",
+			"groupid": 0,
+			"clienttype": 1,
+			"files": [
+				{
+					"name": "informixin9.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbin9.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "informixin9.zip"
+				}
+			]
+		},
+		{
+			"name": "msoledbdriver4sqlserver",
+			"option": 1,
+			"description": "",
+			"groupid": 0,
+			"clienttype": 1,
+			"files": [
+				{
+					"name": "msoledbdriver4sqlserver.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbmsoledbsql.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "msoledbdriver4sqlserver.zip"
+				}
+			]
+		},
+		{
+			"name": "odbcdatabasedriver",
+			"option": 1,
+			"description": "",
+			"groupid": 0,
+			"clienttype": 1,
+			"files": [
+				{
+					"name": "odbcdatabasedriver.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbodb.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "odbcdatabasedriver.zip"
+				},
+				{
+					"name": "pbodb.ini",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "odbcdatabasedriver.zip"
+				}
+			]
+		},
+		{
+			"name": "oracleo90",
+			"option": 1,
+			"description": "",
+			"groupid": 0,
+			"clienttype": 1,
+			"files": [
+				{
+					"name": "oracleo90.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbo90.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "oracleo90.zip"
+				}
+			]
+		},
+		{
+			"name": "oracleo10",
+			"option": 1,
+			"description": "",
+			"groupid": 0,
+			"clienttype": 1,
+			"files": [
+				{
+					"name": "oracleo10.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbo10.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "oracleo10.zip"
+				}
+			]
+		},
+		{
+			"name": "oracleora",
+			"option": 1,
+			"description": "",
+			"groupid": 0,
+			"clienttype": 1,
+			"files": [
+				{
+					"name": "oracleora.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbora.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "oracleora.zip"
+				}
+			]
+		},
+		{
+			"name": "sncsqlnativeclient",
+			"option": 1,
+			"description": "",
+			"groupid": 0,
+			"clienttype": 1,
+			"files": [
+				{
+					"name": "sncsqlnativeclient.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbsnc.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "sncsqlnativeclient.zip"
+				}
+			]
+		},
+		{
+			"name": "asesyc",
+			"option": 1,
+			"description": "",
+			"groupid": 0,
+			"clienttype": 1,
+			"files": [
+				{
+					"name": "asesyc.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbsyc.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "asesyc.zip"
+				}
+			]
+		},
+		{
+			"name": "asease",
+			"option": 1,
+			"description": "",
+			"groupid": 0,
+			"clienttype": 1,
+			"files": [
+				{
+					"name": "asease.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbase.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "asease.zip"
+				}
+			]
+		},
+		{
+			"name": "dotnetassemblycalls",
+			"option": 3,
+			"description": "",
+			"groupid": 3,
+			"clienttype": 3,
+			"files": [
+				{
+					"name": "dotnetassemblycalls.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbdotnet.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "dotnetassemblycalls.zip"
+				},
+				{
+					"name": "pbdotnetcoreinvoker.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "dotnetassemblycalls.zip"
+				},
+				{
+					"name": "pbdotnetframeworkinvoker.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "dotnetassemblycalls.zip"
+				},
+				{
+					"name": "pbdotnetinvoker.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "dotnetassemblycalls.zip"
+				},
+				{
+					"name": "pbdotnetinvoker.runtimeconfig.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "dotnetassemblycalls.zip"
+				}
+			]
+		},
+		{
+			"name": "accessibilitysupport",
+			"option": 3,
+			"description": "",
+			"groupid": 3,
+			"clienttype": 3,
+			"files": [
+				{
+					"name": "accessibilitysupport.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbacc.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "accessibilitysupport.zip"
+				},
+				{
+					"name": "PBAccessibility.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "accessibilitysupport.zip"
+				}
+			]
+		},
+		{
+			"name": "msexcel12support",
+			"option": 3,
+			"description": "",
+			"groupid": 3,
+			"clienttype": 3,
+			"files": [
+				{
+					"name": "msexcel12support.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbDWExcel12Interop.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "msexcel12support.zip"
+				},
+				{
+					"name": "PBDWExcel12Interop.deps.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "msexcel12support.zip"
+				},
+				{
+					"name": "PBDWExcel12Interop.runtimeconfig.json",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "msexcel12support.zip"
+				},
+				{
+					"name": "Appeon.PowerBuilder.DataWindow.Excel12.dll",
+					"size": 0,
+					"path": ".",
+					"action": "regasm",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "msexcel12support.zip"
+				},
+				{
+					"name": "Appeon.PowerBuilder.DataWindow.Excel12.deps.json",
+					"size": 0,
+					"path": ".",
+					"action": "regasm",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "msexcel12support.zip"
+				},
+				{
+					"name": "System.IO.Packaging.dll",
+					"size": 0,
+					"path": ".",
+					"action": "regasm",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "msexcel12support.zip"
+				}
+			]
+		},
+		{
+			"name": "nativepdfsupport",
+			"option": 3,
+			"description": "",
+			"groupid": 3,
+			"clienttype": 3,
+			"files": [
+				{
+					"name": "nativepdfsupport.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbPDF.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "nativepdfsupport.zip"
+				},
+				{
+					"name": "pbpdfbuilder.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "nativepdfsupport.zip"
+				}
+			]
+		},
+		{
+			"name": "restclientsupport",
+			"option": 3,
+			"description": "",
+			"groupid": 1,
+			"clienttype": 3,
+			"files": [
+				{
+					"name": "restclientsupport.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbrestclient.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "restclientsupport.zip"
+				}
+			]
+		},
+		{
+			"name": "pbdom",
+			"option": 3,
+			"description": "",
+			"groupid": 3,
+			"clienttype": 3,
+			"files": [
+				{
+					"name": "pbdom.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "PBDOM.pbx",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "pbdom.zip"
+				}
+			]
+		},
+		{
+			"name": "ribbonbarsupport",
+			"option": 3,
+			"description": "",
+			"groupid": 3,
+			"clienttype": 3,
+			"files": [
+				{
+					"name": "ribbonbarsupport.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbribbonbar.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "ribbonbarsupport.zip"
+				}
+			]
+		},
+		{
+			"name": "smtpclientsupport",
+			"option": 3,
+			"description": "",
+			"groupid": 3,
+			"clienttype": 3,
+			"files": [
+				{
+					"name": "smtpclientsupport.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbsmtpclient.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "smtpclientsupport.zip"
+				}
+			]
+		},
+		{
+			"name": "tabbedviewsupport",
+			"option": 3,
+			"description": "",
+			"groupid": 3,
+			"clienttype": 3,
+			"files": [
+				{
+					"name": "tabbedviewsupport.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbtabbedbar.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "tabbedviewsupport.zip"
+				}
+			]
+		},
+		{
+			"name": "txtextcontrolactivex",
+			"option": 3,
+			"description": "",
+			"groupid": 2,
+			"clienttype": 3,
+			"files": [
+				{
+					"name": "txtextcontrolactivex.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbTXTEXT.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "txtextcontrolactivex.zip"
+				},
+				{
+					"name": "tx4ole32.ocx",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "txtextcontrolactivex.zip"
+				},
+				{
+					"name": "tx32.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "txtextcontrolactivex.zip"
+				},
+				{
+					"name": "tx32_css.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "txtextcontrolactivex.zip"
+				},
+				{
+					"name": "tx32_doc.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "txtextcontrolactivex.zip"
+				},
+				{
+					"name": "tx32_dox.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "txtextcontrolactivex.zip"
+				},
+				{
+					"name": "tx32_htm.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "txtextcontrolactivex.zip"
+				},
+				{
+					"name": "tx32_ic.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "txtextcontrolactivex.zip"
+				},
+				{
+					"name": "tx32_obj.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "txtextcontrolactivex.zip"
+				},
+				{
+					"name": "tx32_pdf.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "txtextcontrolactivex.zip"
+				},
+				{
+					"name": "tx32_rtf.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "txtextcontrolactivex.zip"
+				},
+				{
+					"name": "tx32_tls.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "txtextcontrolactivex.zip"
+				},
+				{
+					"name": "tx32_wnd.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "txtextcontrolactivex.zip"
+				},
+				{
+					"name": "tx32_xlx.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "txtextcontrolactivex.zip"
+				},
+				{
+					"name": "tx32_xml.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "txtextcontrolactivex.zip"
+				},
+				{
+					"name": "mfc140u.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "txtextcontrolactivex.zip"
+				},
+				{
+					"name": "vcruntime140.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "txtextcontrolactivex.zip"
+				},
+				{
+					"name": "vcruntime140_1.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "txtextcontrolactivex.zip"
+				}
+			]
+		},
+		{
+			"name": "msricheditcontrol",
+			"option": 3,
+			"description": "",
+			"groupid": 4,
+			"clienttype": 3,
+			"files": [
+				{
+					"name": "msricheditcontrol.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "PBMSTEXT.DLL",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "msricheditcontrol.zip"
+				}
+			]
+		},
+		{
+			"name": "webbrowsersupport",
+			"option": 3,
+			"description": "",
+			"groupid": 1,
+			"clienttype": 3,
+			"files": [
+				{
+					"name": "webbrowsersupport.zip",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "PBWebView2.zip",
+					"size": 0,
+					"path": "PBWebView2",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": true,
+					"packagename": ""
+				},
+				{
+					"name": "pbwebbrowser.dll",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "webbrowsersupport.zip"
+				},
+				{
+					"name": "webbrowserapi.tlb",
+					"size": 0,
+					"path": ".",
+					"action": "",
+					"hashcode": "",
+					"isneedextract": false,
+					"packagename": "webbrowsersupport.zip"
+				}
+			]
+		}
+	],
+	"groups": [
+		{
+			"groupid": 1,
+			"name": "Web Integration Features",
+			"dbi": false
+		},
+		{
+			"groupid": 2,
+			"name": "RichTextEdit Support",
+			"dbi": false
+		},
+		{
+			"groupid": 3,
+			"name": "Additional Features",
+			"dbi": false
+		},
+		{
+			"groupid": 0,
+			"name": "Database Interfaces",
+			"dbi": true
+		},
+		{
+			"groupid": 4,
+			"name": "Obsolete Features",
+			"dbi": false
+		}
+	],
+	"version": "25.0.0.3683",
+	"format": "1.0"
+}
